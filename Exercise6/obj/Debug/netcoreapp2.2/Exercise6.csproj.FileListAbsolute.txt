@@ -1,0 +1,10 @@
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Exercise6\bin\Debug\netcoreapp2.2\Exercise6.deps.json
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Exercise6\bin\Debug\netcoreapp2.2\Exercise6.runtimeconfig.json
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Exercise6\bin\Debug\netcoreapp2.2\Exercise6.runtimeconfig.dev.json
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Exercise6\bin\Debug\netcoreapp2.2\Exercise6.dll
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Exercise6\bin\Debug\netcoreapp2.2\Exercise6.pdb
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Exercise6\obj\Debug\netcoreapp2.2\Exercise6.csproj.CoreCompileInputs.cache
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Exercise6\obj\Debug\netcoreapp2.2\Exercise6.AssemblyInfoInputs.cache
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Exercise6\obj\Debug\netcoreapp2.2\Exercise6.AssemblyInfo.cs
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Exercise6\obj\Debug\netcoreapp2.2\Exercise6.dll
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Exercise6\obj\Debug\netcoreapp2.2\Exercise6.pdb

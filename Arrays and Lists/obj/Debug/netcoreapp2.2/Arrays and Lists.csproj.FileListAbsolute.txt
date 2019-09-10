@@ -1,0 +1,11 @@
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\bin\Debug\netcoreapp2.2\Arrays and Lists.deps.json
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\bin\Debug\netcoreapp2.2\Arrays and Lists.runtimeconfig.json
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\bin\Debug\netcoreapp2.2\Arrays and Lists.runtimeconfig.dev.json
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\bin\Debug\netcoreapp2.2\Arrays and Lists.dll
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\bin\Debug\netcoreapp2.2\Arrays and Lists.pdb
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\obj\Debug\netcoreapp2.2\Arrays and Lists.csprojAssemblyReference.cache
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\obj\Debug\netcoreapp2.2\Arrays and Lists.csproj.CoreCompileInputs.cache
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\obj\Debug\netcoreapp2.2\Arrays and Lists.AssemblyInfoInputs.cache
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\obj\Debug\netcoreapp2.2\Arrays and Lists.AssemblyInfo.cs
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\obj\Debug\netcoreapp2.2\Arrays and Lists.dll
+D:\Projetos\Data Structures and algorithms c#\Arrays and Lists\Arrays and Lists\obj\Debug\netcoreapp2.2\Arrays and Lists.pdb
